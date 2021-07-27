@@ -25,7 +25,8 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 4. Cone of Uncertaining
 5. [Sprint Zero](https://www.scrum.org/forum/scrum-forum/32851/sprint-zero?gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-6MrBoIl3s8lEA_7hKrpkw9yz1GsHyLz01ZmIJrh2yu29FThyikqQaAt1qEALw_wcB)
 6. [Scrubbing Sprint Zero](https://www.scrum.org/resources/blog/scrubbing-sprint-zero)
-7. 
+7. [Velocity](https://www.scrum.org/resources/blog/agile-metrics-velocity)
+8. 
 
 
 ## License

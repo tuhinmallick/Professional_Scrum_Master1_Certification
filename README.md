@@ -12,7 +12,7 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 
 
 ## References
-- Scrum Guide - http://www.scrumguides.org
+- [Scrum Guide (2020)](https://github.com/tuhinmallick/Professional_Scrum_Master1_Certification/blob/main/Documents/2020-Scrum-Guide-US.pdf)
 - [Scrum - A Pocket Guide by Gunther Verheyen](https://github.com/tuhinmallick/Professional_Scrum_Master/blob/main/Documents/scrum-a-pocket-guide-excerpt.pdf)
     - Awesome book, you should buy it, and most importantly, read it
 - The Professional ScrumMaster’s Handbook by Stacia Viscardi

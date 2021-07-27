@@ -20,6 +20,7 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 - Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
 ## Scrum Glossary
 [Scalable Scrum](https://www.scrum.org/resources/scaling-scrum)
+[Burndown charts](https://www.scrum.org/resources/burndown-charts-defined)
 
 
 ## License

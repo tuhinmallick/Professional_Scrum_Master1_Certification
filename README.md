@@ -13,7 +13,7 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 
 ## References
 - Scrum Guide - http://www.scrumguides.org
-- [Scrum - A Pocket Guide by Gunther Verheyen][https://github.com/tuhinmallick/Professional_Scrum_Master/blob/main/Documents/scrum-a-pocket-guide-excerpt.pdf]
+- [Scrum - A Pocket Guide by Gunther Verheyen](https://github.com/tuhinmallick/Professional_Scrum_Master/blob/main/Documents/scrum-a-pocket-guide-excerpt.pdf)
     - Awesome book, you should buy it, and most importantly, read it
 - The Professional ScrumMaster’s Handbook by Stacia Viscardi
     - This woman is incredible and so her book, it is a must for Scrum Masters

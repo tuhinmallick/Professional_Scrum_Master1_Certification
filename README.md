@@ -21,4 +21,4 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 
 ## License
 
-
+See [this](https://github.com/tuhinmallick/Professional_Scrum_Master1_Certification/blob/main/LICENSE) for more information

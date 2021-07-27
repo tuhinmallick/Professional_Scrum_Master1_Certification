@@ -18,6 +18,9 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 - The Professional ScrumMaster’s Handbook by Stacia Viscardi
     - This woman is incredible and so her book, it is a must for Scrum Masters
 - Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
+## Scrum Glossary
+[Scalable Scrum](https://www.scrum.org/resources/scaling-scrum)
+
 
 ## License
 

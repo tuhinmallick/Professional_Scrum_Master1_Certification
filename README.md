@@ -9,8 +9,7 @@ or you can import the .mm files using Xmind (http://www.xmind.net)*
 - Please, feel free to contribute to this project adding new maps or editing the existent ones.
 If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 
-- If you want any other information the Professional Scrum Master certification, you can visit 
-http://robertojunior.net/professional-scrum-master-studies
+
 
 ## References
 - Scrum Guide - http://www.scrumguides.org
@@ -24,7 +23,7 @@ http://robertojunior.net/professional-scrum-master-studies
 
 MIT License
 
-Copyright (c) 2017 Roberto Júnior - http://www.robertojunior.net
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

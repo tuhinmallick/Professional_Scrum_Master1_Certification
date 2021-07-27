@@ -22,6 +22,10 @@ If you find any discrepancy with the Scrum Guide, please, submit a pull request.
 1. [Scalable Scrum](https://www.scrum.org/resources/scaling-scrum)
 2. [Feedback Loop](https://www.scrum.org/forum/scrum-forum/5927/feedback-loop-and-inspect-adapt)
 3. [Burndown charts](https://www.scrum.org/resources/burndown-charts-defined)
+4. Cone of Uncertaining
+5. [Sprint Zero](https://www.scrum.org/forum/scrum-forum/32851/sprint-zero?gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D-6MrBoIl3s8lEA_7hKrpkw9yz1GsHyLz01ZmIJrh2yu29FThyikqQaAt1qEALw_wcB)
+6. [Scrubbing Sprint Zero](https://www.scrum.org/resources/blog/scrubbing-sprint-zero)
+7. 
 
 
 ## License
